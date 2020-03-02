@@ -7,7 +7,6 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/fziviello/FazHamburgerMenu'
   spec.license      = 'MIT'
   spec.author       = { 'fziviello' => 'f.ziviello@email.it' }
-  spec.social_media_url   = 'https://www.linkedin.com/in/programmatore'
   spec.source       = { :git => 'https://github.com/fziviello/FazHamburgerMenu.git', :tag => 'v1.0' }
   spec.source_files  = 'FazHamburgerMenu/**/*.{swift, storyboard, xib, plist}'
   spec.framework  = 'SystemConfiguration'
