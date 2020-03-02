@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.source_files  = 'FazHamburgerMenu/**/*.{swift, storyboard, xib, plist}'
   spec.framework  = 'SystemConfiguration'
   spec.requires_arc = true
-  spec.ios.development_target = '12.1'
+  spec.ios.deployment_target = '12.1'
   spec.swift_version = '5.0'
 
 end
