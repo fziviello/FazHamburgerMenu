@@ -18,7 +18,7 @@ To integrate FazHamburgerMenu into your Xcode project using CocoaPods, you have 
     platform :ios, '13.0'
     use_frameworks!
     
-    pod 'FazHamburgerMenu'
+    pod 'FazHamburgerMenu', '1.0'
     ```
     
 Then, run the following command: 
