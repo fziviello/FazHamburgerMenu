@@ -11,7 +11,7 @@ Creating a HamburgerMenu with user role management.
 
 ### CocoaPods
 
-    To integrate FazHamburgerMenu into your Xcode project using CocoaPods, you have to specify it in your  `Podfile` :
+To integrate FazHamburgerMenu into your Xcode project using CocoaPods, you have to specify it in your  `Podfile` :
     
     ```ruby
     source 'https://github.com/CocoaPods/Specs.git'
@@ -21,13 +21,14 @@ Creating a HamburgerMenu with user role management.
     pod 'FazHamburgerMenu'
     ```
     
-    Then, run the following command: 
+Then, run the following command: 
     
     ```bash
     $ pod install
     ```
     
 # Licences and tests
+
 ![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)   
 
 ![Swift](https://github.com/fziviello/FazHamburgerMenu/workflows/Swift/badge.svg?branch=master)
